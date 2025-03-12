@@ -1,2 +1,2 @@
-# fastestkargo
+# HızlısındanKargo
 kargo takip uygulaması
